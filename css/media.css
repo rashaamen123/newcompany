@@ -1,0 +1,188 @@
+@media (max-width: 575.98px) { 
+  .but-system{
+    padding: 5px 15px;
+    width: 30%;
+  }
+  .system {
+    width: 125%;
+}
+  .customer {
+    width: 125%;
+}
+.mine-continer {
+  width: 125%;
+}
+.sras{
+  margin-left: 2em;
+}
+.icon-center-system{
+  width: 20em;
+}
+.react-e {
+padding-left: 1em;
+}
+.people{
+  font-size: 9px;
+}
+.par-qubly{
+  padding: 20px;
+}
+div#card-system {
+  margin-bottom: 2em;
+}
+.data{
+  margin: auto;
+}
+.programming{
+  padding: 0.5em 3em;
+}
+.head-sing-up{
+  padding-top: 0.5em;
+}
+.head-data{
+  padding-left: 5em;
+}
+.par-cleint{
+  padding: 0.5em 10em;
+}
+
+.icon-pro{
+  padding-left: 1em;
+}
+.logo-footer{
+  padding: 3em;
+  margin-left: -2em;
+}
+.head-pro{
+  font-size: 15px;
+}
+.sing-up{
+  margin: auto;
+}
+.row{
+  display: block;
+  flex-direction: row-reverse;
+}
+.photo-data{
+width: 50%;
+}
+.product{
+  margin: auto;
+}
+.photo-continer{
+width: 50%;
+}
+.engineering{
+  width: 50%;
+}
+.aws{
+  width: 40%;
+}
+ }
+@media (max-width: 767.98px) { 
+  .but-system{
+    padding: 5px 15px;
+    width: 30%;
+  }
+  .people{
+    font-size: 9px;
+  }
+  .row{
+    display: block;
+    flex-direction: row-reverse;
+  }
+  .customer {
+    width: 125%;
+}
+  .product{
+    margin: auto;
+  }
+  .data{
+    margin: auto;
+  }
+  .photo-data{
+    margin-left: 7em;
+  }
+
+  .logo-footer{
+    padding: 3em;
+    margin-left: -2em;
+  }
+  .syatem{
+    margin-left: 7em;
+  }
+.icon-center-system{
+  width: 30%;
+}
+.par-qubly{
+  padding: 20px;
+ 
+}
+.box{
+  padding-left: 3em;
+  display:block;
+
+  }
+  div#card-system {
+    margin-bottom: 2em;
+  }
+  .icon-product{
+    width: 70%;
+  }
+  .par-cleint{
+    padding: 0.5em 10em;
+  }
+}
+
+ @media (max-width: 991.98px) { 
+  .navbar-nav .nav-item .nav-link{
+    display:flex;
+  }
+  .system {
+    width: 115%;
+}
+  .customer {
+    width: 115%;
+}
+  .people{
+    font-size: 9px;
+  }
+  .mine-continer{
+    width: 115%;
+  }
+  .but-system{
+    padding: 5px 15px;
+    width: 30%;
+  }
+  .icon-start{
+    width: 70%;
+  }
+  .but-system{
+    width: 40%;
+  }
+  .icon-product{
+    width: 50%;
+  }
+  .photo-data {
+    width: 61%;
+    margin-left: 9em;
+}
+  .data{
+    margin-left: -6em;
+  }
+  .head-data{
+    padding-left: 0em;
+    font-size: 15px;
+  }
+  .par-cleint{
+    padding: 0.5em 10em;
+  }
+  .engineering{
+    width: 70%;
+    margin-left: 8em;
+  }
+  input[type="button"]{
+   padding:  0.5em 12em;
+  }
+  }
+
